@@ -1,0 +1,3 @@
+[submodule "foundryvtt-dice-so-nice"]
+	path = foundryvtt-dice-so-nice
+	url = git@gitlab.com:mooped/foundryvtt-dice-so-nice.git
