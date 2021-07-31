@@ -11,6 +11,10 @@ const dice_models = [
   {
     in: 'models/d30_dsn.gltf',
     out: 'output/d30_dsn.json'
+  },
+  {
+    in: 'models/d24_dsn.gltf',
+    out: 'output/d24_dsn.json'
   }
 ]
 
